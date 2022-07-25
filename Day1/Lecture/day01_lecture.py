@@ -1,8 +1,8 @@
-# Python - 2021 Summer Course
+# Python - 2022 Summer Course
 # Day 1
 # Topic: Syntax, Loops, and Functions
-# Instructor: Ben Noble
-# Former Instructors: Patrick Cunha Silva, Ryden Buttler, 
+# Instructor: Annamaria Prati
+# Former Instructors: Ben Noble, Patrick Cunha Silva, Ryden Buttler,
 # 					  Erin Rossiter, Michele Torres
 #					  David Carlson, and Betul Demirkaya
 
@@ -46,9 +46,9 @@
 #---------- Strings ----------#
 
 # Single Quotes
-name = 'Ben'
+name = 'Dwayne'
 # Double Quotes 
-age = "30"
+age = "50"
 # Combining strings, using .format{}
 intro =  "Hi, my name is {}. I'm {} years old.".format(name, age)
 print(intro)
@@ -57,14 +57,15 @@ intro = "Hi, I'm " + name + ", I'm " + age
 print(intro)
 # Triple Quotes, it produces a string that spans multiple lines
 new_intro = """Hello!,
-I'm Ben. 
+I'm Dwayne. 
 What's up?"""
 new_intro # representation
 print(new_intro) # print method
 
 
 # Characters in a string are indexable
-intro[0] 
+intro
+intro[0]
 intro[2]
 intro[4] 
 
@@ -72,11 +73,11 @@ intro[4]
 name[0] = "a"
 
 # But, we can use a string to modify itself
-name = name + 'jamin'
+name = name + ' The Rock'
 print(name)
 
 # We can also use +=
-name += ' Noble'
+name += ' Johnson'
 print(name)
 
 # Though strings are immutable, we can split them
@@ -248,7 +249,7 @@ tup.count('a')
 # A dictionary is a collection which is unordered, changeable and indexed 
 
 # We use {} to create a dictionary
-myInfo = {"name" : "ben", "age" : 30, "research" : ["presidency", "congress"]}
+myInfo = {"name" : "annamaria", "age" : 50, "research" : ["IR", "methods"]}
 
 # We call elements using keys.
 myInfo
@@ -262,12 +263,12 @@ myInfo[0] ##!!!
 myInfo["research"]
 
 # We can add new elements to a dictionary
-myInfo["last_name"] = "noble"
+myInfo["last_name"] = "prati"
 myInfo
 
 # We can modify elements
-myInfo["name"] = 'benjamin'
-myInfo["research"] = 'american politics'
+myInfo["name"] = 'mia'
+myInfo["research"] = 'methods'
 myInfo
 
 #---------- Booleans and Conditionals ----------#
@@ -291,7 +292,7 @@ if x == 1:
 elif x == 2:
 	print('x is two')
 else:
-	print('x is neither one nor two') # IndentationError
+print('x is neither one nor two') # IndentationError
 
 # Can be conditions or boolean (True or False)
 True == (1 == 1.0)

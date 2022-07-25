@@ -1,0 +1,46 @@
+---
+Title: Introduction to Python
+Author: Annamaria Prati
+Date: August 8, 2022
+output: pdf_document
+---
+
+# Course Info:
+
+- **Annamaria Prati**
+	- Email: [aprati@wustl.edu](aprati@wustl.edu)
+	- Office Hours: by appointment
+
+- **Cecilia Sui**
+	- Email: [c.sui@wustl.edu](c.sui@wustl.edu)
+	- Office Hours: by appointment
+
+- Lecture: 10AM-12PM 
+- Lab: 1-3PM
+- Course GitHub: [https://github.com/afprati/python_summer2022](https://github.com/afprati/python_summer2022)
+
+*All times central*
+
+## Homeworks:
+
+- There will be 5 homework assignments.
+- All homeworks due **before class**.
+- Work together but do not copy/paste code.
+- Submit your homework on GitHub. Commit/comment often.
+- Direct homework questions to Cecilia.
+
+## Poster Projects:
+
+- Show off your python skills with a small project.
+- Try something on your own or ask a faculty member if they have an idea you can help with.
+- Poster session to other graduate students and faculty.
+- Date and time TBD soon; will be the first week or two of the fall semester.
+- Some warnings: achievable, don't wait until the semester starts —- seriously!
+
+# Why Python?
+
+- Helpful for web scraping, interacting with APIs, text, applications.
+- Transferable skills to other programming languages.
+- Sends a signal to faculty, potential industry employers.
+- 83% of data analysts use Python on a regular basis, only 36% said they use R. [(Source)](http://bit.ly/2XQQe8c)
+

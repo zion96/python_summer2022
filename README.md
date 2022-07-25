@@ -3,6 +3,7 @@
 Introduction to Python 3 designed for Ph.D. Students in Political Science (WUSTL)
 
 Instructor: Annamaria Prati
+
 Teaching Assistant: Cecilia Sui
 
 ## Topics and Schedule:

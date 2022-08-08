@@ -18,7 +18,7 @@ You can find the link to our course repository here: [https://github.com/afprati
 ## To clone/fork a repository:
 
 1. Go to our class repository on GitHub (i.e., click the above link).
-2. Click on `fork` in the top right corner. This will launch an animiation, after which, you'll end up on *your* forked repository. The url should read https://github.com/<yourusername>/python_summer2021.
+2. Click on `fork` in the top right corner. This will launch an animation, after which, you'll end up on *your* forked repository. The url should read https://github.com/<yourusername>/python_summer2021.
 3. Click the green "code" button and click the clipboard icon next to the url.
 4. Open terminal and use `cd` to go to folder where you want to clone the repository.
 5. Type `git clone ...` where the ... is the link you copied from the website and then hit enter.

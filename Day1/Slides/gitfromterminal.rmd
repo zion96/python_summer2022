@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # What is GitHub?
 
 GitHub is a version control and data storage solution used by programmers and data scientists. It can be useful to learn some basic GitHub concepts and commands to collect someone else's data or publish your data for others to use. 
@@ -6,7 +11,7 @@ We're going to learn how to set up GitHub on our machines and interact with GitH
 
 # Our Course Repository
 
-You can find the link to our course repository here: [https://github.com/bennoble/python_summer2021](https://github.com/bennoble/python_summer2021).
+You can find the link to our course repository here: [https://github.com/afprati/python_summer2022](https://github.com/afprati/python_summer2022).
 
 # Git from Terminal
 

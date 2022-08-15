@@ -1,7 +1,7 @@
 # TODO: write code to answer the following questions: 
 # 1) which of these embassies is closest to the White House in meters? 
 # how far is it, and what is the address?
-# 2) if I wanted to hold a morning meeting there, which cafe would you suggest?
+# 2) if I wanted to hold a morning meeting there, which cafe would you suggest (best rating and closest)?
 # 3) if I wanted to hold an upscale evening meeting there, which fancy bar would you suggest? 
 # for 2 and 3, you will need to enable the google places API
 # you may find this page useful to learn about different findinging nearby places https://www.geeksforgeeks.org/python-fetch-nearest-hospital-locations-using-googlemaps-api/
